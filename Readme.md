@@ -8,9 +8,9 @@ Note: This will only display Active Directory Security Groups (i.e. it won't dis
 
 ## Usage
 
-.\ps_AD_Get-UserFullGroupMembership.ps1 -UserName <Active Directory User Name>
+.\ps_AD_Get-UserFullGroupMembership.ps1 -UserName "Active Directory User Name"
 
-<Active Directory User Name> = A valid Active DIrectory username
+"Active Directory User Name" = A valid Active DIrectory username
 
 ## Example 
 
